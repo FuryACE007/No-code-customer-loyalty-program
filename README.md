@@ -43,9 +43,8 @@ ________________________________________________________________________________
 
 ### Step 1. Clone the repository
 
-`git clone git@github.com:kuldeep23907/loyalty-token-using-hlf.git`
+`git clone git@github.com:FuryACE007/No-code-customer-loyalty-program.git`
 
-`cd loyalty-token-using-hlf`
 
 ### Step 2. Install required softwares (if you already have all this with proper versions, please skip). Also this will take few minutes.
 
@@ -57,7 +56,7 @@ They are hyperledger fabric 1.4.6, golang, docker, docker-composer, node,  pytho
 
 `source environment`
 
-If it fails, please install all the above mentioned software by refrerring to file prepare.sh one by one. Without this, we will not be able to test the application.
+If it fails, please install all the above mentioned software by referring to file prepare.sh one by one. Without this, we will not be able to test the application.
 
 ### Step 3. Start the fabric network using shell script
 
@@ -107,7 +106,7 @@ For more details, see the contents of the operate.sh file.
 
 `npm start run`
 
-Now everything is setup and testing could be started. Go to `http://localhost:3000` to see the client app running. Use `id: admin and password: adminpw` for admin login to start the flow. Please refer to demo video link here to proceed: https://www.youtube.com/watch?v=olDkOoSwx44&t=386s
+Now everything is setup and testing could be started. Go to `http://localhost:3000` to see the client app running. Use `id: admin and password: adminpw` for admin login to start the flow. Please refer to demo video link here to proceed: https://www.youtube.com/watch?v=UgywXSpsAQA
 
 ## Stop the network 
 
